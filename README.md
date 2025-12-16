@@ -67,4 +67,17 @@ streamlit run myfile.py
 * The model uses **Age** as the input feature
 * Output:
 
-  * `0` → Per
+  * 0 → Person will not buy insurance
+  * 1 → Person will buy insurance
+
+##  App Preview
+
+* Enter age in the input box
+* Click Predict
+* Result will be displayed instantly
+
+## Use Case
+
+* Beginner-level ML deployment project
+* Academic mini project
+* Resume / internship demonstration
