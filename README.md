@@ -69,12 +69,16 @@ streamlit run myfile.py
 
   * 0 → Person will not buy insurance
   * 1 → Person will buy insurance
+ 
+---
 
 ##  App Preview
 
 * Enter age in the input box
 * Click Predict
 * Result will be displayed instantly
+
+---
 
 ## Use Case
 
